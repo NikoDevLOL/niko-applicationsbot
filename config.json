@@ -1,0 +1,11 @@
+{
+    "token": "enter_your_bot_token",
+    "clientId": "enter_your_bot_client_id",
+	"guildId": "enter_your_bot_guild_id",
+    "embedColor": "#ffffff",
+    "serverName": "NikoRP",
+    "serverLogo": "https://cdn.discordapp.com/attachments/1093142596433485844/1102287358122016778/4323-blurple-verified-bot-developer.png",
+    "applications_channel_1": "enter_your_channel_id",
+    "applications_channel_2": "enter_your_channel_id",
+    "applications_channel_3": "enter_your_channel_id"
+}

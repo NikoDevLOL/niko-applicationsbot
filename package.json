@@ -1,0 +1,16 @@
+{
+  "name": "niko-applicationsbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "niko",
+  "license": "MIT",
+  "dependencies": {
+    "cli-color": "^2.0.3",
+    "discord.js": "^14.9.0"
+  }
+}
